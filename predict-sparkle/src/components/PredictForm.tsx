@@ -13,7 +13,7 @@ interface ApiResult {
   risk_factors: Record<string, string>;
 }
 
-const API_BASE = "http://127.0.0.1:8000"; // Change if your API runs elsewhere
+const API_BASE = "https://no-show-appointment-prediction.onrender.com"; // Change if your API runs elsewhere
 
 function toLocalInputValue(date: Date) {
   const pad = (n: number) => String(n).padStart(2, "0");
