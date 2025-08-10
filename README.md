@@ -130,5 +130,7 @@ Implement a real-time API for prediction integration
 
 Improve feature engineering (e.g., appointment time slots, day of week)
 
-👨‍💻 Author
-Isaiah Ogooluwa Bakare – Data Science & Machine Learning Enthusiast
+---
+
+### 👨‍💻 Author
+**Isaiah Ogooluwa Bakare – Data Science & Machine Learning Enthusiast**
