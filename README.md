@@ -7,6 +7,9 @@ The dataset comes from [Kaggle - Medical Appointment No Shows](https://www.kaggl
 The main goal is to build a **machine learning model** that can help healthcare providers reduce missed appointments by identifying patients at high risk of not showing up.  
 
 ---
+### Demo
+**Frontend url:** [https://no-show-app.vercel.app](https://no-show-app.vercel.app)
+**Backend url:** [https://yourrenderapi.onrender.com](https://yourrenderapi.onrender.com)
 
 ## 📊 Dataset Description  
 The dataset contains the following key columns:  
